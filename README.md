@@ -1,4 +1,4 @@
-# How-to-generate-the-additional-cell-details-in-the-DataGridRow-without-showing-in-Flutter-DataGrid
+# How-to-show-the-additional-cell-details-in-the-DataGridRow-without-showing-in-Flutter-DataGrid
 
 In this article, you can learn about how to generate the additional cell details in the DataGridRow without showing that in [Flutter DataGrid](https://www.syncfusion.com/flutter-widgets/flutter-datagrid).
 
